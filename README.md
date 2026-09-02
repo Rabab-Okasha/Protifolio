@@ -48,5 +48,5 @@ I’m a data scientist focused on helping startups and businesses turn their dat
 * **My Work:** Prepared the data, developed useful features, analyzed patterns, and built a classification solution designed to automate the identification process.
 * **Client Value:** Demonstrates how automated classification can reduce manual effort and create a faster, more consistent workflow.
 
-##📬 Call to Action
+## 📬 Call to Action
 Have a data problem you want to solve? Let’s turn your data into clear insights or a practical AI solution. Send me a message and let’s discuss your project, goals, and the best way to move forward.
