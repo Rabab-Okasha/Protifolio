@@ -1,7 +1,7 @@
 # 📊 Rabab Mohamed | Data Scientist 
 ### Turning Complex Data into Clear Insights & Practical AI Solutions
 
-##👤 About Me
+## 👤 About Me
 I’m a data scientist focused on helping startups and businesses turn their data into useful insights and practical AI solutions. I work across the full data preparation process, from cleaning and preprocessing data to creating meaningful features and clear visualizations that make results easier to understand and use. I also build analytical and machine learning solutions designed around real business needs. My projects include a breast cancer prediction model, housing clustering analysis, and an automated material classification system. I’m committed to delivering reliable, high-quality work on time, with careful attention to detail and clean, well-structured solutions. My goal is simple: help clients make better decisions, solve data-related problems, and get measurable value from their data.
 
 ## 🛠️ Services
